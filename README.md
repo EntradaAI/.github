@@ -30,7 +30,6 @@ To empower organizations of all sizes to embrace the boundless potential of data
 
 ## Stay Connected
 
-* **Follow us on LinkedIn:** [https://www.linkedin.com/company/entrada-ai](https://www.linkedin.com/company/entrada-ai) 
-* **Join the conversation:**  (Include links to any relevant Slack channels, forums, etc.) 
+* **Follow us on LinkedIn:** [https://www.linkedin.com/company/entrada-ai](https://www.linkedin.com/company/entrada-ai)
 
 **Let's unlock the power of your data together!** 
